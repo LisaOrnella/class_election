@@ -4,7 +4,7 @@ A class voting app where students vote for candidates and see ranked results. My
 
 ## Screenshots
 
-![Before closing](screenshots/before.png)
-![After running again](screenshots/after.png)
-![Live data from an API](screenshots/api.png)
-![No internet](screenshots/no-internet.png)
+![Before closing](before.png)
+![After running again](after.png)
+![Live data from an API](api.png)
+![No internet](no-internet.png)
